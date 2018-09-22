@@ -1,8 +1,8 @@
 # Site settings
-title: "Hello! <i class='fa fa-leaf'></i>"
-email: your-email@domain.com
-url: https://example.github.io
-description: "I will teach you <strong>Spring</strong>."
+title: Spring Mentor
+email: springmentor@gmail.com
+url: https://www.linkedin.com/in/mszarlinski
+description: "Spring Framework Boot Cloud Netflix teaching learning mentor"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,14 +10,14 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Spring Mentor
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: https://github.com/mszarlinski
   - title: linkedin
     url: https://www.linkedin.com/in/mszarlinski
+  - title: github
+    url: https://github.com/mszarlinski
   - title: twitter
     url: https://twitter.com/m_szarlinski
 
