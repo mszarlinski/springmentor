@@ -14,10 +14,12 @@ footer: Spring Mentor
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: github
+    url: https://github.com/spring-petclinic/spring-petclinic-microservices
+  - title: facebook
+    url: https://www.facebook.com/Spring-Mentor-1930650606957081
   - title: linkedin
     url: https://www.linkedin.com/in/mszarlinski
-  - title: github
-    url: https://github.com/mszarlinski
   - title: twitter
     url: https://twitter.com/m_szarlinski
 
